@@ -17,7 +17,8 @@
  * [Spring Boot, deployment и инфраструктура](https://github.com/qxPepper/qxPepper/blob/main/certificate_jclo.pdf)
  * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
  * [Дипломный блок профессии Java-разработчик]()
-
+ 
+ 
 
 
 <!--
