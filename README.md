@@ -1,10 +1,5 @@
-<h2 align="center">Привет! Я Виталий Громов.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3 align="center">Java разработчик.</h3>
-
-<h5>https://taplink.cc/qxpepper
-
-qxpepper@gmail.com</h5>
-
+<h2 align="left">Привет! Я Виталий Громов.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h3 align="left">Java разработчик.</h3>
 
 
 
