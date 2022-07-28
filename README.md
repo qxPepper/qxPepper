@@ -10,12 +10,12 @@
 ### Сертификаты Нетологии
  * [Основы Java](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
  * [Git — система контроля версий](https://github.com/qxPepper/qxPepper/blob/main/certificate_git.pdf)
- * [Java Core](https://netology.ru/backend/api/user/programs/21602/pdf_certificate)
- * [Шаблоны проектирования](https://netology.ru/backend/api/user/programs/21606/pdf_certificate)
- * [Многопоточное и функциональное программирование](https://netology.ru/backend/api/user/programs/21609/pdf_certificate)
- * [Web, Spring & Spring MVC](https://netology.ru/backend/api/user/programs/22950/pdf_certificate)
- * [Spring Boot, deployment и инфраструктура](https://netology.ru/backend/api/user/programs/22954/pdf_certificate)
- * [Хранение данных и организация безопасности](https://netology.ru/backend/api/user/programs/22958/pdf_certificate)
+ * [Java Core](https://github.com/qxPepper/qxPepper/blob/main/certificate_javacore.pdf)
+ * [Шаблоны проектирования](https://github.com/qxPepper/qxPepper/blob/main/certificate_jpat.pdf)
+ * [Многопоточное и функциональное программирование](https://github.com/qxPepper/qxPepper/blob/main/certificate_jadv.pdf)
+ * [Web, Spring & Spring MVC](https://github.com/qxPepper/qxPepper/blob/main/certificate_jspr.pdf)
+ * [Spring Boot, deployment и инфраструктура](https://github.com/qxPepper/qxPepper/blob/main/certificate_jclo.pdf)
+ * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
  * [Дипломный блок профессии Java-разработчик]()
 
 
