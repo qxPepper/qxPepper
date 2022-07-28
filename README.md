@@ -9,7 +9,7 @@
   
 ### Сертификаты Нетологии
  * [Основы Java](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
- * [Git — система контроля версий](https://netology.ru/backend/api/user/programs/19854/pdf_certificate)
+ * [Git — система контроля версий](https://github.com/qxPepper/qxPepper/blob/main/certificate_git.pdf)
  * [Java Core](https://netology.ru/backend/api/user/programs/21602/pdf_certificate)
  * [Шаблоны проектирования](https://netology.ru/backend/api/user/programs/21606/pdf_certificate)
  * [Многопоточное и функциональное программирование](https://netology.ru/backend/api/user/programs/21609/pdf_certificate)
