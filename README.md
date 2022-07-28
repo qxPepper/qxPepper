@@ -8,7 +8,7 @@
   * Курсовой проект "Конвертер в текстовую графику": [задание](https://github.com/netology-code/java-diplom), [результат](https://github.com/qxPepper/Homework-15-javabasicsdiploma)
   
 ### Сертификаты Нетологии
- * [Основы Java](https://netology.ru/backend/api/user/programs/17156/pdf_certificate)
+ * [Основы Java](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
  * [Git — система контроля версий](https://netology.ru/backend/api/user/programs/19854/pdf_certificate)
  * [Java Core](https://netology.ru/backend/api/user/programs/21602/pdf_certificate)
  * [Шаблоны проектирования](https://netology.ru/backend/api/user/programs/21606/pdf_certificate)
