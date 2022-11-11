@@ -19,6 +19,11 @@
  * [Дипломный блок профессии Java-разработчик](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
  
  
+ ### Сайт Агентства недвижимости Аллегро
+  * [Сайт](allegrorealty.ru?gorod=Kaliningrad&chey=nash)
+  * [Админка](http://allegrorealty.ru/adminka/admi.php?city=Konigsberg&whose=our)
+ 
+ 
 
 
 <!--
