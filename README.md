@@ -20,7 +20,7 @@
  
  
  ### Сайт Агентства недвижимости Аллегро
-  * [Сайт](allegrorealty.ru?gorod=Kaliningrad&chey=nash)
+  * [Сайт](http://allegrorealty.ru?gorod=Kaliningrad&chey=nash)
   * [Админка](http://allegrorealty.ru/adminka/admi.php?city=Konigsberg&whose=our)
  
  
