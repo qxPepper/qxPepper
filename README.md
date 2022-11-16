@@ -25,7 +25,7 @@
   
   
   ### Образование
-   * [Диплом МИФИ]([http://allegrorealty.ru?gorod=Kaliningrad&chey=nash](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg))
+   * [Диплом МИФИ]()
  
  
 
