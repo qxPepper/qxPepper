@@ -22,6 +22,10 @@
  ### Сайт Агентства недвижимости Аллегро
   * [Сайт](http://allegrorealty.ru?gorod=Kaliningrad&chey=nash)
   * [Админка](http://allegrorealty.ru/adminka/admi.php?city=Konigsberg&whose=our)
+  
+  
+  ### Образование
+   * [Диплом МИФИ]([http://allegrorealty.ru?gorod=Kaliningrad&chey=nash](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg))
  
  
 
