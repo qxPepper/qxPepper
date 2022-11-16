@@ -16,7 +16,7 @@
  * [Web, Spring & Spring MVC](https://github.com/qxPepper/qxPepper/blob/main/certificate_jspr.pdf)
  * [Spring Boot, deployment и инфраструктура](https://github.com/qxPepper/qxPepper/blob/main/certificate_jclo.pdf)
  * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
- * [Дипломный блок профессии Java-разработчик](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
+ * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
  
  
  ### Сайт Агентства недвижимости Аллегро
