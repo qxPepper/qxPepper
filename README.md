@@ -16,14 +16,14 @@
  * [Web, Spring & Spring MVC](https://github.com/qxPepper/qxPepper/blob/main/certificate_jspr.pdf)
  * [Spring Boot, deployment и инфраструктура](https://github.com/qxPepper/qxPepper/blob/main/certificate_jclo.pdf)
  * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
- * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
- 
  
  ### Сайт Агентства недвижимости Аллегро
   * [Сайт](http://allegrorealty.ru?gorod=Kaliningrad&chey=nash)
   * [Админка](http://allegrorealty.ru/adminka/admi.php?city=Konigsberg&whose=our)
   
- 
+ ### Образование
+ * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
+ * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma.jpg)
  
 
 
