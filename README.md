@@ -1,5 +1,7 @@
 <h2 align="left">Привет! Я Виталий Громов.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3 align="left">Java разработчик.</h3>
+
+### Java разработчик.
+  - Также имею опыт PHP разработчика.
 
 ### Мои работы в Нетологии
   * Дипломная работа “Облачное хранилище”: [задание](https://github.com/netology-code/jd-homeworks/blob/master/diploma/cloudservice.md), [результат](https://github.com/qxPepper/My_Diploma.git)
@@ -18,8 +20,8 @@
  * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
  
  ### Сайт Агентства недвижимости Аллегро
-  * [Сайт](http://allegrorealty.ru?gorod=Kaliningrad&chey=nash)
-  * [Админка](http://allegrorealty.ru/adminka/admi.php?city=Konigsberg&whose=our)
+  * [Сайт на PHP](http://allegrorealty.ru?gorod=Kaliningrad&chey=nash)
+  * [Админка на PHP](http://allegrorealty.ru/adminka/admi.php?city=Konigsberg&whose=our)
   
  ### Образование
  * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
