@@ -23,6 +23,10 @@
  * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
  * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma.jpg)
  
+  ### Некоторые примеры на PHP
+ * [Сайт Агентства недвижимости Аллегро (пример)](http://allegro-real.ru?gorod=Kaliningrad&chey=cfe26a9efb0e689b7a91af66a90791d5)
+ * [Админка сайта Агентства недвижимости Аллегро (пример)](http://allegro-real.ru/adminka/admi.php?city=Konigsberg&whose=162e31afc5ade88a04d3f428e97e8f46)
+ * [Блог (пример реализации MVC на ООП)](http://allegro-real.ru/blog)
 
 
 <!--
