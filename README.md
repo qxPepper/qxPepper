@@ -21,7 +21,7 @@
   
  ### Образование
  * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
- * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma.jpg)
+ * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma_mifi.jpg)
  
   ### Некоторые примеры на PHP
  * [Сайт Агентства недвижимости Аллегро (пример)](http://allegro-real.ru?gorod=Kaliningrad&chey=cfe26a9efb0e689b7a91af66a90791d5)
