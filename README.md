@@ -15,7 +15,7 @@
  * [Блог (пример реализации MVC на ООП)](http://allegro-real.ru/blog)
 
 ### Учебный пример на Python в Финансовом университете при Правительстве РФ.
-  * Дипломная работа по машинному обучению: [задание](https://github.com/netology-code/jd-homeworks/blob/master/diploma/cloudservice.md), [результат](https://github.com/qxPepper/My_Diploma.git)
+  * Дипломная работа по машинному обучению: [задание], [результат]
 
   
 ### Сертификаты Нетологии
