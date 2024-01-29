@@ -1,7 +1,10 @@
 <h2 align="left">Привет! Я Виталий Громов.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
-### Java разработчик.
-  - Также имею опыт PHP разработчика.
+### Инженер-программист.
+  - Программирую на Java.
+  - Программирую на PHP.
+  - Программирую на C++.
+  - Программирую на Python.
 
 ### Мои работы в Нетологии
   * Дипломная работа “Облачное хранилище”: [задание](https://github.com/netology-code/jd-homeworks/blob/master/diploma/cloudservice.md), [результат](https://github.com/qxPepper/My_Diploma.git)
