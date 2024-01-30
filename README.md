@@ -36,7 +36,7 @@
  ### Образование
  * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma_mifi.jpg)
  * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
- </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[Сертификаты по темам](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
+ </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[Сертификаты по темам](https://github.com/qxPepper/qxPepper/blob/main/Certificates.PDF)
  * [Диплом Финансового университета](https://github.com/qxPepper/qxPepper/blob/main/diploma_fin_univer.jpg)
  
 
