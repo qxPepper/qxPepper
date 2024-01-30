@@ -16,22 +16,6 @@
 
 ### Учебный пример на Python в Финансовом университете при Правительстве РФ.
   * Дипломная работа по машинному обучению: [задание](https://github.com/qxPepper/Machine_Learning/blob/master/Мodule_5_practice_3.pdf), [результат](https://github.com/qxPepper/Machine_Learning/blob/master/Diploma_in_Machine_Learning.pdf)
-<!--
-</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[colab](https://colab.research.google.com/drive/1wrcOikB3QnWZyv64_VXbtYU3A09maFqm?usp=sharing)
-</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[dataset](https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit)
--->
-
-<!--  
-### Сертификаты Нетологии
- * [Основы Java](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
- * [Git — система контроля версий](https://github.com/qxPepper/qxPepper/blob/main/certificate_git.pdf)
- * [Java Core](https://github.com/qxPepper/qxPepper/blob/main/certificate_javacore.pdf)
- * [Шаблоны проектирования](https://github.com/qxPepper/qxPepper/blob/main/certificate_jpat.pdf)
- * [Многопоточное и функциональное программирование](https://github.com/qxPepper/qxPepper/blob/main/certificate_jadv.pdf)
- * [Web, Spring & Spring MVC](https://github.com/qxPepper/qxPepper/blob/main/certificate_jspr.pdf)
- * [Spring Boot, deployment и инфраструктура](https://github.com/qxPepper/qxPepper/blob/main/certificate_jclo.pdf)
- * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
- -->
   
  ### Образование
  * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma_mifi.jpg)
