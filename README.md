@@ -21,7 +21,7 @@
 </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[dataset](https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit)
 -->
 
-  
+<!--  
 ### Сертификаты Нетологии
  * [Основы Java](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
  * [Git — система контроля версий](https://github.com/qxPepper/qxPepper/blob/main/certificate_git.pdf)
@@ -31,10 +31,13 @@
  * [Web, Spring & Spring MVC](https://github.com/qxPepper/qxPepper/blob/main/certificate_jspr.pdf)
  * [Spring Boot, deployment и инфраструктура](https://github.com/qxPepper/qxPepper/blob/main/certificate_jclo.pdf)
  * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
+ -->
   
  ### Образование
  * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma_mifi.jpg)
  * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
+ </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[Сертификаты по темам](https://github.com/qxPepper/qxPepper/blob/main/certificate_java.pdf)
+ * [Диплом Финансового университета](https://github.com/qxPepper/qxPepper/blob/main/diploma_fin_univer.jpg)
  
 
 <!--
