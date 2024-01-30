@@ -33,8 +33,8 @@
  * [Хранение данных и организация безопасности](https://github.com/qxPepper/qxPepper/blob/main/certificate_jdata.pdf)
   
  ### Образование
- * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
  * [Диплом МИФИ](https://github.com/qxPepper/qxPepper/blob/main/diploma_mifi.jpg)
+ * [Диплом Нетологии](https://github.com/qxPepper/qxPepper/blob/main/netology_diploma.jpg)
  
 
 <!--
